@@ -63,9 +63,18 @@ Password: 123456
 ### Rigester
 <img width="1582" height="827" alt="image" src="https://github.com/user-attachments/assets/4c518380-e862-4a51-b3b7-eed44cc2ee8a" />
 
+### Login Without Password
+<img width="776" height="597" alt="image" src="https://github.com/user-attachments/assets/ce6d7aa5-d434-4e29-b25a-bb7e3fc72b52" />
+<img width="1898" height="807" alt="image" src="https://github.com/user-attachments/assets/f712dbb5-4ba7-4260-9d0d-2d99e5f4cf50" />
+
+
 
 ### Dashboard
 <img width="1899" height="876" alt="image" src="https://github.com/user-attachments/assets/56de3291-c838-4431-855a-178f40894ad3" />
+
+### AdminDashboard
+<img width="1864" height="813" alt="image" src="https://github.com/user-attachments/assets/70683051-863d-4d8b-8e40-8d4b1c0f455e" />
+
 
 
 ### Scan
